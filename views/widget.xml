@@ -1,0 +1,3 @@
+<Alloy>
+	<SearchBar id="search" onFocus="onFocus" onBlur="onBlur" onCancel="onCancel" onChange="onChange" />
+</Alloy>
